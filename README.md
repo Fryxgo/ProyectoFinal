@@ -23,3 +23,5 @@ tambien que el renderizado de react es que utiliza un adaptador para pasar de na
    - Empiezo el segndo curso y el profesor me gusta mas como explica, estoy viendo por ejemplo lo que es un toDTO que es una funcion creada para la comunicacion del front con el back, y si usa con Get y Post por ejemplo para conseguir o devolver datos al servidor
    - Este tema esta basado en usar Fetch que es para comunicarse con el servidor, y esta expicando como usarlo, se basa en responses aun que siempre tira para alante sea que te devuelve algo o no, para poder gestionar eso existens los interceptores por ejemplo.
    - Router, en react el router es el encargado de que se muestra en la pagina en cada momneto, ya que react "es una SPA" es decir usa una sola pagina html y muesta lo que quiere condicionalmente y tiene internamente la gestion de volver a la "pagina" anterior
+
+  Termine el segundo curso dentro de la carrera, aprobe el examen a la primera, y lo dicho anteriormente este ha sido un poco caos para entender pero me gustaba mas como explicaba este profesor un poco contradictorio la verdad ahora tocara empezar con React Avanzado
