@@ -25,3 +25,12 @@ tambien que el renderizado de react es que utiliza un adaptador para pasar de na
    - Router, en react el router es el encargado de que se muestra en la pagina en cada momneto, ya que react "es una SPA" es decir usa una sola pagina html y muesta lo que quiere condicionalmente y tiene internamente la gestion de volver a la "pagina" anterior
    - Voy ahora mismo mas o menos por la mitad del curso intermedio y la verdad prefiero como habla este profesor, me parece mas ameno, eso si, se hace mas dificil entender, supongo que es por estar en el curso itnermedio
    - En este curso no hay ningun ejercicio, solo pone ejemplo pequeños de codigo, para entenderlo es mas complicado, por que ademas es codigo ya hecho
+
+  Termine el segundo curso dentro de la carrera, aprobe el examen a la primera, y lo dicho anteriormente este ha sido un poco caos para entender pero me gustaba mas como explicaba este profesor un poco contradictorio la verdad ahora tocara empezar con React Avanzado
+
+### Semanal 15/04 - 22/04
+
+- Esta parte es explicada por el mismo profesor, la verdad es que esta es mas complicada de entender ya que pilla los conceptos anteriores y los lleva un poco mas.
+- Aprobecho los "tiempos muertos" de las practicas para estar viendo estos videos ya que espero qeu me sirvan en un par de semanas
+- En este curso habla mas sobre los Hooks, Redux y manejo de estado con ellos, habla tambien sobre gestion de errores, el modo extricto, que basicamente ayuda a que haya menos errores, renderiza todo una vez mas para ello, y habla sobre el testeo generado por React del DOM
+- Este curso de React avanzado es cortito la verdad, ya me hice con este el tercer examen, aprobado al primer intento y me dispongo a empezar el primer taller, que trata de los hooks.
