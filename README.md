@@ -38,4 +38,6 @@ tambien que el renderizado de react es que utiliza un adaptador para pasar de na
 ### Semanal 15/04 - 22/04
 
 - Estoy viendo el penultimo curso de esta carrera, y basicamdente esta hablando de la gestion de estados en React y las distintas formas de usar el state, ya bien sea recogiondolo o seteandolo y ha enseñado como usar el local storage del navegador, que esta genial para poder guardar datos
-- 
+- Termine el curso, aprobe el examen al primer intento, no se si fue por el acento que me hacia racia o que pero a este fue al que mas entretenido se me hice esccuhar de los 3 profesores que he visto en la plataforma
+- Ahora estoy viendo el siguietne curso, el ultimo, luego solo quedan un par de talleres, y lo da el mismo profesor
+  
