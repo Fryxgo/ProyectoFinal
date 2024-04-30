@@ -41,6 +41,9 @@ tambien que el renderizado de react es que utiliza un adaptador para pasar de na
 - Termine el curso, aprobe el examen al primer intento, no se si fue por el acento que me hacia gracia o que, pero a este fue al que mas entretenido se me hice esccuhar de los 3 profesores que he visto en la plataforma
 - Ahora estoy viendo el siguietne curso, el ultimo, luego solo quedan un par de talleres, y lo da el mismo profesor
 - Flux es un patron que define el flujo de datos para la UI y se puede usar flux sin usar Redux ya que redux funciona utilizando Flux
+  
+### Semanal 29/04 - 26/05
+  
 - Una Action es cualquier evento que se produce en nuestra app lo que produce normalmente un cambio de estado por tanto habrá un cambio en la vista
 - Action Creator es basicamente una acccion que crea acciones, nosotros no deberiamos de crear acciones deberian de ser todo a traves del action creator, es basicamente por consisatencia, es bueno usarlo ademas por que te quitras de errores semanticos ya que llemas a una funcion que te devuelve una "string" (constante) y asi no escribir esa string y luego tener fallos y que la aplicacion falle
 - Selectores
