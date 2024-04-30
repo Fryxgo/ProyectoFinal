@@ -35,7 +35,7 @@ tambien que el renderizado de react es que utiliza un adaptador para pasar de na
 - En este curso habla mas sobre los Hooks, Redux y manejo de estado con ellos, habla tambien sobre gestion de errores, el modo extricto, que basicamente ayuda a que haya menos errores, renderiza todo una vez mas para ello, y habla sobre el testeo generado por React del DOM
 - Este curso de React avanzado es cortito la verdad, ya me hice con este el tercer examen, aprobado al primer intento y me dispongo a empezar el primer taller, que trata de los hooks.
 
-### Semanal 15/04 - 22/04
+### Semanal 22/04 - 29/04
 
 - Estoy viendo el penultimo curso de esta carrera, y basicamdente esta hablando de la gestion de estados en React y las distintas formas de usar el state, ya bien sea recogiondolo o seteandolo y ha enseñado como usar el local storage del navegador, que esta genial para poder guardar datos
 - Termine el curso, aprobe el examen al primer intento, no se si fue por el acento que me hacia racia o que pero a este fue al que mas entretenido se me hice esccuhar de los 3 profesores que he visto en la plataforma
