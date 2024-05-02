@@ -57,7 +57,15 @@ tambien que el renderizado de react es que utiliza un adaptador para pasar de na
 - Es practicamente una necesidad hacer un customHook para poder hacer varais peticiones para poder abstraer los datos no solo de 1 peticion
 - Reducer y DataFetching el reducer aparte de supararnos la lógica de estado de los componentes, nos permite aunar una única función todos los cambios de estado necesarios ppara una acción
 Y es en dataFeching donde cobra sentido ya que normalmente queremos varios cambiosa de estado
+d
 ### Thunk
-Un thunk es la función devuelta por otra función const add = (a,b) => () => a+b  
+
+- Un thunk es la función devuelta por otra función const add = (a,b) => () => a+b
+- Thunks con Reducers -> son usados principalmente para hacer middlewares
+- Un reducer aparte de separarnos la lógica de estado de nuestros componentes, nos permite aunar en una única función todos los cambios de estado necesarios dada una acción.
+Y es precisamente con Data Fetching donde cobran mucho sentido, ya que por lo general vamos a querer realizar varios camios en el estado depende de la acción.
+
+Hice el examen, realizado 1 vez con 16 aciertos  -> Aprobado
+- Ahora ahre los talleres, los cuales subire directamente a git una vez hechos
 
   
