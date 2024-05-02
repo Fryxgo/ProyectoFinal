@@ -46,6 +46,18 @@ tambien que el renderizado de react es que utiliza un adaptador para pasar de na
   
 - Una Action es cualquier evento que se produce en nuestra app lo que produce normalmente un cambio de estado por tanto habrá un cambio en la vista
 - Action Creator es basicamente una acccion que crea acciones, nosotros no deberiamos de crear acciones deberian de ser todo a traves del action creator, es basicamente por consisatencia, es bueno usarlo ademas por que te quitras de errores semanticos ya que llemas a una funcion que te devuelve una "string" (constante) y asi no escribir esa string y luego tener fallos y que la aplicacion falle
-- Selectores
+- Selectores -> la forma de nuestro estado debe estart optimizada al como actualiza y no como se visualiza, un selector es u na función que toma un estado y devuelve una visu alizacion
+- Para testear un reducer es muy sencillo por que son funciones puras de javascript entonces se pueden hacer test de forma sencilla
+- Context -> nos ofrece una forma de poder compartir una prop entre componentes sin necesidad de tener que ir pasándola en cascada a todos nuestros componentes, es decir poder tener el contexto en todos los componentes eso si exportandolo claro
+- React.memo en conjunción con useCallback usados en el sitio adecuado puede aportar una mejora en el rendimiento de nuestra aplicacion, pero hay que tener cuidado, por que tampoco se puede usar como locos, ya que al hacerlo conseguimos el efecto contrario, es decir en vez de mejorar mejora ralentiza la app al hacer llamadas continuamente
+
+- DataFetching traer datos de una fuente externa, de un servidor por ejemplo o LocalStorage
+- Debido a que las funciones que acceden a localStorage o a un servidor externo está fuera de nuestro control, no son consideradas funciones puras.
+- Para poder lanzar side effects o efectos en React, tenemos que usar siempre "useEffect"
+- Es practicamente una necesidad hacer un customHook para poder hacer varais peticiones para poder abstraer los datos no solo de 1 peticion
+- Reducer y DataFetching el reducer aparte de supararnos la lógica de estado de los componentes, nos permite aunar una única función todos los cambios de estado necesarios ppara una acción
+Y es en dataFeching donde cobra sentido ya que normalmente queremos varios cambiosa de estado
+### Thunk
+Un thunk es la función devuelta por otra función const add = (a,b) => () => a+b  
 
   
