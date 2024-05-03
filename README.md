@@ -65,7 +65,7 @@ d
 - Un reducer aparte de separarnos la lógica de estado de nuestros componentes, nos permite aunar en una única función todos los cambios de estado necesarios dada una acción.
 Y es precisamente con Data Fetching donde cobran mucho sentido, ya que por lo general vamos a querer realizar varios camios en el estado depende de la acción.
 
-Hice el examen, realizado 1 vez con 16 aciertos  -> Aprobado
+Examen, realizado 1 vez con 16 aciertos  -> Aprobado
 - Ahora ahre los talleres, los cuales subire directamente a git una vez hechos
 
   
