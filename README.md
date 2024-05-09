@@ -66,6 +66,9 @@ d
 Y es precisamente con Data Fetching donde cobran mucho sentido, ya que por lo general vamos a querer realizar varios camios en el estado depende de la acción.
 
 Examen, realizado 1 vez con 16 aciertos  -> Aprobado
-- Ahora ahre los talleres, los cuales subire directamente a git una vez hechos
+- Ahora haré los talleres, los cuales subire directamente a git una vez hechos
 
   
+### Semanal 06 /04 - 13/05
+
+- Se me habia olvidado hacer el commit del taller 2, lo he hecho en local y se me olvido hacer el commit, no pude hacerlo el lunes tampoco o el martes a primera por lo ya comentado, estuve ocn otitis y no estuve en la empresa y este taller lo hice alli para aprovechar el tiempo
