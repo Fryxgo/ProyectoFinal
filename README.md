@@ -72,3 +72,5 @@ Examen, realizado 1 vez con 16 aciertos  -> Aprobado
 ### Semanal 06 /04 - 13/05
 
 - Se me habia olvidado hacer el commit del taller 2, lo he hecho en local y se me olvido hacer el commit, no pude hacerlo el lunes tampoco o el martes a primera por lo ya comentado, estuve ocn otitis y no estuve en la empresa y este taller lo hice alli para aprovechar el tiempo
+
+## Termine la carrera, tanto los cursos como los talleres
